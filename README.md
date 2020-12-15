@@ -8,7 +8,7 @@ This web application is deployed at the following link:
 https://spencercreer.github.io/horiseon_refactored/
 
 The following image shows the web application:
-![horiseon_refactored](./assets/images/deployed_website.png)
+![horiseon_refactored](./assets/images/deployed_website.PNG)
 
 
 Semantic HTML elements were added to the source code including: header, nav, figure, main, section, aside, and footer.
